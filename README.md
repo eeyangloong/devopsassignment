@@ -9,3 +9,5 @@ dummy siol! test test test
 * cloud
 * docker
 * hand out assignments la!
+
+TEST TEST TEST HI HACKER DETECTED
